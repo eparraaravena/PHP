@@ -1,0 +1,77 @@
+[
+    {
+        "tipo": "personas",
+        "nombre": "Aaron Koblin",
+        "url": "http://www.aaronkoblin.com/"
+    },
+    {
+        "tipo": "personas",
+        "nombre": "Alberto Cairo",
+        "url": "http://www.thefunctionalart.com/"
+    },
+    {
+        "tipo": "personas",
+        "nombre": "Ben Fry",
+        "url": "http://www.benfry.com/"
+    },
+    {
+        "tipo": "personas",
+        "nombre": "Cris Hernandez",
+        "url": "http://crishernandez.co/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Data-Driven Documents",
+        "url": "https://d3js.org/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Envision",
+        "url": "http://humblesoftware.com/envision"
+    },
+    {
+        "tipo": "personas",
+        "nombre": "Fernanda Viegas",
+        "url": "http://fernandaviegas.com/"
+    },
+    {
+        "tipo": "personas",
+        "nombre": "Francesco Franchi",
+        "url": "http://www.francescofranchi.com/docs/id.pdf"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Gapminder",
+        "url": "http://www.gapminder.org/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Gephi",
+        "url": "https://gephi.org/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Infogram",
+        "url": "https://infogr.am/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Quadrigram",
+        "url": "quadrigram.com"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "RAWGraphs",
+        "url": "http://rawgraphs.io/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Timeline",
+        "url": "http://timeline.knightlab.com/"
+    },
+    {
+        "tipo": "herramientas",
+        "nombre": "Wolframalpha",
+        "url": "http://www.wolframalpha.com/"
+    }
+]
